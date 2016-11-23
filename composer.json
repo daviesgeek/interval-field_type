@@ -1,0 +1,9 @@
+{
+    "name": "daviesgeek/interval-field_type",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Daviesgeek\\IntervalFieldType\\": "src/"
+        }
+    }
+}
